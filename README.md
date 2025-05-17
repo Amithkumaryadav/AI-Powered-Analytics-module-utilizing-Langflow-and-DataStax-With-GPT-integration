@@ -79,4 +79,4 @@ The dataset simulates engagement data from 100 mock social media users, includin
 - 🚫 No-code solution: Ideal for non-technical users
 
 ## Contact
-- saiganeshganoju@gmail.com
+- amithkumar.yadav007@gmail.com
