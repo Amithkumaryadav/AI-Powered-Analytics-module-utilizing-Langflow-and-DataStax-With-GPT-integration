@@ -47,7 +47,7 @@ The dataset simulates engagement data from 100 mock social media users, includin
 - Create a database and keyspace
 - Load the `social_media_engagement.json` into a collection
 
-### Step 2: Setup Langflow
+## Step 2: Setup Langflow
 - Go to [https://langflow.io](https://langflow.io)
 - Login or deploy locally using:
   ```bash
