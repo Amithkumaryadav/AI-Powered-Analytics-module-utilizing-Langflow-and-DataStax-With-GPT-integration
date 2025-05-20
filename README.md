@@ -1,4 +1,4 @@
-# AI-Powered-Analytics-module-utilizing-Langflow-and-DataStax-With-GPT-integration
+# AI-Powered-Analytics-module-utilizing-Langflow-and-DataStaxl-With-GPT-integration
 
 This project demonstrates the development of an AI-powered analytics module for analyzing engagement metrics from social media data using **Langflow**, **DataStax Astra DB**, and **GPT integration**.
 
