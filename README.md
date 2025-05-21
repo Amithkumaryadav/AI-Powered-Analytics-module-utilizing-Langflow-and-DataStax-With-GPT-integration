@@ -36,7 +36,7 @@ The dataset simulates engagement data from 100 mock social media users, includin
 - Post Type (Reel, Carousel, Static Image)
 - Likes, Comments, Shares
 
-> 📁 File: `data/social_media_engagement.json`
+> 📁 File:`data/social_media_engagement.json`
 
 ---
 
@@ -45,7 +45,7 @@ The dataset simulates engagement data from 100 mock social media users, includin
 ### Step 1: Prepare the Environment
 - Sign up at [Astra DB](https://www.datastax.com/astra)
 - Create a database and keyspace
-- Load the `social_media_engagement.json` into a collection
+- Load the `social_media_engagement.json` into a          collection
 
 ## Step 2: Setup Langflow
 - Go to [https://langflow.io](https://langflow.io)
