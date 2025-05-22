@@ -6,7 +6,7 @@ The solution leverages a no-code, visual approach (Langflow) to create workflows
 
 ---
 
-## 🧠 Project Summary
+### 🧠 Project Summary
 
 📌 **Objective**:  
 Build a scalable and intelligent analytics module that:
